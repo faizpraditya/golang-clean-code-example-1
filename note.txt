@@ -48,3 +48,8 @@ ALTER TABLE IF EXISTS public.m_student
     OWNER to postgres;
 ===============
 
+// Livecode
+refactor wmb-faiz
+semua bisa nembak ke payment, tapi member/tidak itu yang punya poin/tidak
+
+api opo dari golang
